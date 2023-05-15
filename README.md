@@ -7,6 +7,7 @@ using jsmediatags library to retrieve artist & track & album art from the song t
 using MediaSession API to show song metadata on Windows volume control overlay. and also added control over the music player through windows volume control overlay to play/pause & next/previous track.
 
 list of songs, used in this project: 
+
   Ana Cañas - No Quiero Tus Besos
   
   Black Lab - Part of Me
