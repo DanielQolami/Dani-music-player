@@ -20,4 +20,4 @@ list of songs, used in this project:
   
   Zorita - Weeping Willow (Waltz Macabre)
 
-[see the result](https://danielqolami.github.io/Dani-music-player/)
+[Check the music player, here](https://danielqolami.github.io/Dani-music-player/)
