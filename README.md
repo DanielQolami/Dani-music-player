@@ -8,16 +8,11 @@ using MediaSession API to show song metadata on Windows volume control overlay. 
 
 
 list of songs, used in this project:  
-  Ana Cañas - No Quiero Tus Besos
-  
-  Black Lab - Part of Me
-  
-  Charlie Cunningham - Hundred Times
-  
-  Julio Iglesias - Avanti tutta (No soy de aquí)
-  
-  The Czars - Paint the Moon
-  
-  Zorita - Weeping Willow (Waltz Macabre)
+  &ensp; Ana Cañas - No Quiero Tus Besos  
+  &ensp; Black Lab - Part of Me  
+  &ensp; Charlie Cunningham - Hundred Times  
+  &ensp; Julio Iglesias - Avanti tutta (No soy de aquí)  
+  &ensp; The Czars - Paint the Moon  
+  &ensp; Zorita - Weeping Willow (Waltz Macabre)
 
 [Check the music player, here](https://danielqolami.github.io/Dani-music-player/)
